@@ -106,3 +106,4 @@ POSTGRES_DB=fastapi_db
 ## 📄 License
 
 MIT
+
