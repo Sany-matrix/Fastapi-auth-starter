@@ -45,7 +45,7 @@ OR
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/fastapi-auth-starter.git
+git clone https://github.com/Sany-matrix/fastapi-auth-starter.git
 cd fastapi-auth-starter
 
 Create environment file:
